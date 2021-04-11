@@ -1,15 +1,14 @@
 {
-    "name": "com.unity.example",
+    "name": "net.abrusle.unity-ui-state-animator",
     "version": "0.0.0",
-    "displayName": "DisplayName",
-    "description": "description",
+    "displayName": "UI State Animator",
+    "description": "Unity Package for animating a set of UI element to different states.",
     "unity": "2019.1",
     "dependencies": {
-        "com.unity.other-package": "1.0.0"
     },
     "author": {
-        "name": "AuthorName",
-        "email": "autor@email.com",
-        "url": "https://docs.unity3d.com/Manual/cus-layout.html"
+        "name": "Abrusle",
+        "email": "public.abrusle@gmail.com",
+        "url": "https://github.com/abrusle/unity-ui-state-animator"
     }
 }

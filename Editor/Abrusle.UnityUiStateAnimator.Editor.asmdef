@@ -1,7 +1,9 @@
 {
-    "name": "Unity.ExamplePackage",
+    "name": "Abrusle.UnityUiStateAnimator.Editor",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
